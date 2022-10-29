@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ufv.dis.EmpleadoBRTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-29T20:40:00" hostname="MacBook-Pro-de-Carlos-3.local" time="0.03">
+  <properties/>
+  <testcase name="calculaSalarioBruto()" classname="com.ufv.dis.EmpleadoBRTest" time="0.027"/>
+  <testcase name="calculaSalarioNeto()" classname="com.ufv.dis.EmpleadoBRTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
